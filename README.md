@@ -4,7 +4,7 @@ In Turkey, and some other countries, **wikipedia.org** is prohibited, a simple J
 # HOW IT WORKS?
 This solution uses chrome bookmark to create a bookmark which executes a **JS** code.
 - Go **google** any subject, with ending your search with "**Wiki**" keyword
-- Click **EasyZero** bookmark, it will find the first wikipedia.org in the page, redirecting it to wikizeroo.org, 
+- Click **EasyZeroo** bookmark, it will find the first wikipedia.org in the page, redirecting it to wikizeroo.org, 
 - Please find the page :)
 
 # HOW TO INSTALL?
