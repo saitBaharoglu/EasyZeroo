@@ -14,6 +14,6 @@ This solution uses chrome bookmark to create a bookmark which executes a **JS** 
 4) Name our Bookmark: "**EasyZeroo**"
 5) write the following in the **URL** field:
 ```js
-javascript: (function () { list = document.getElementsByTagName('a'); for (let item of list) { href = item.getAttribute('href'); if (href && href.includes("wikipedia.org")) { window.location.replace(href.replace("wikipedia", "0wikipedia")); break; } } })();
+javascript: !function(){let e=document.getElementsByTagName("a");for(let i of e){let e=i.getAttribute("href");if(e&&e.includes("wikipedia.org")){window.location.replace(e.replace("wikipedia","0wikipedia"));break}}}();
 ```
 6) Click "**done**"
