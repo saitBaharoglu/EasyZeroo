@@ -1,5 +1,5 @@
 # EasyZeroo
-In Turkey, and some other countries, **wikipedia.org** is prohibited, a simple JS code can solve the problem by redirecting to **wikizeroo.org**.
+In some countries, **wikipedia.org** is prohibited, a simple JS code can solve the problem by redirecting to **wikizeroo.org**.
 
 # HOW IT WORKS?
 This solution uses chrome bookmark to create a bookmark which executes a **JS** code.
